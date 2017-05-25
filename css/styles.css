@@ -53,7 +53,7 @@ h3 {
 }
 
 h1, h2, h3, p {
-	padding: 10px;
+	padding: 1px;
 	margin: 0;
 	color: #000;
 }
@@ -279,9 +279,9 @@ input.button {
 
 #header p#slogan {
 	position: absolute;
-	margin: 0;
-	padding-top: 10px;
-	font: normal 18px "Arial",Helvetica,sans-serif;
+	margin: 11;
+	padding-top: 27px;
+	font: normal 13px "Arial",Helvetica,sans-serif;
 	text-transform: none;
 	/*color: #5b4a29;*/
 	color: #666;
@@ -290,7 +290,7 @@ input.button {
 	/* change the values of top and left to adjust the position of the slogan*/
 	top: 88px;/* value changed on 20.09.2016 due to overlapping in mozilla; earlier value 64px */
 	left: 369px; /* value changed on 20.09.2016 due to overlapping in mozilla; earlier value 369px */
-	text-align:left;
+	text-align:center;
 	float: left;
 	width: 230px; /* value changed on 20.09.2016 due to overlapping in mozilla; earlier value 216px */
 }
@@ -326,13 +326,13 @@ input.button {
 	left: 385px; /* value changed on 20.09.2016 due to overlapping in mozilla; earlier value 370px */
 	text-align:center;
 	float: left;
-	width: 197px;
+	/*width: 197px;*/
 }
 
 
 #header p#slogan_new_2 {
 	position: absolute;
-	margin: 0;
+	margin: 21;
 	padding-top: 10px;
 	font: normal 12px "Arial",Helvetica,sans-serif;
 	text-transform: none;
@@ -447,10 +447,10 @@ input.button {
 	color:#FFF;
 	position:relative;
 	font-family:Arial, Helvetica, sans-serif;
-	font-size:13px;
+	font-size:12px;
 	padding-left: 5px;
 	padding-right:0px;
-	padding-top: 5px;
+	padding-top: 20px;
 	padding-bottom: 0;
 }
 .main_menu ul
@@ -555,7 +555,7 @@ margin: 0 auto;
 	text-align:justify;
 	font-family: "Arial", Helvetica, sans-serif;
 	
-	font-size: 12px;
+	font-size: 14px;
 	font-style: normal;
 	font-weight: normal;
 	font-variant: normal;
